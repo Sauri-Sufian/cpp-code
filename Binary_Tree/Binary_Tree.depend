@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1585752438 source:d:\project c++\binary_tree\main.cpp
+	<iostream>
+	"queue.h"
+
+1584958728 source:d:\project c++\binary_tree\queue.cpp
+	"queue.h"
+	<iostream>
+
+1584958740 d:\project c++\binary_tree\queue.h
+	<iostream>
+
